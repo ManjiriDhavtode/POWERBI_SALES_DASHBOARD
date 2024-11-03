@@ -7,7 +7,8 @@ Purchasing Patterns: Analyzes which product categories and payment methods are m
 
 # Problem Statement:
 --------------------
-The dashboard was created to analyze sales performance, understand customer behavior, and identify trends in profit, purchase categories, and payment modes. It provides insights into areas like monthly profits, popular products, customer locations, and average order values.
+The dashboard was created to analyze sales performance, understand customer behavior, and identify trends in profit, purchase categories, and payment modes. 
+It provides insights into areas like monthly profits, popular products, customer locations, and average order values.
 
 # Key Insights:
 ---------------
