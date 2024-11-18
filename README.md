@@ -1,8 +1,8 @@
 # Project Title
-# E-commerce Sales Analysis
+- E-commerce Sales Analysis
 ------------------------------
 
-# Problem Statement:
+- Problem Statement:
 ----------------------
 E-commerce platforms generate massive volumes of transactional data daily. Analyzing this data is essential to understanding sales trends,
 identifying profit drivers, and improving decision-making.
